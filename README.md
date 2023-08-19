@@ -1,11 +1,13 @@
-# Proyecto página de Boda
-    Proyecto de Boda para la clase del viernes Agosto 18 en el semillero de mentores BIT
+# pagina-boda
+Proyecto de boda
 
-## 
+# Descripción
+Página donde se consolida nuestra historia de amor
 
+# Mock
+![mock](mock/mock.png)
 
-
-### Autores:
-    Nataly Reyes
-    Luisa Castaño
-    Daniel Guevara
+# Autores
+ Daniel Guevara
+ Nataly Reyes
+ Luisa Castaño
