@@ -7,9 +7,9 @@
     --color2:#A6775B;
     --color3:#59261B;
     --color4:#433528;
+    --textTitulos:'Great Vibes', cursive;
+    --textContenido:'Gowun Dodum', sans-serif;
 }
-
-
 
 /* -------------HEADER----------------- */
 /* --------------MAIN----------------- */
@@ -40,4 +40,5 @@
     margin-top: 20px;
     color: var(--color1);
 }
+
 /* -------------FOOTER----------------- */
