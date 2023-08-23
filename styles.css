@@ -33,6 +33,8 @@ nav{
     align-items: center;
     padding: 2% 3%;
     background-color: var(--color1);
+    font-family: var(--textTitulos);
+    font-size: larger;
 }
 nav h2{
     color: var(--color3);
@@ -63,6 +65,7 @@ nav a:hover{
     /* margin-top: 10%; */
     margin-bottom: 10%;
     background-color: #651c0c;
+    font-family: var(--textContenido);
 }
 .container-carrusel img{
     max-width: 100%;
