@@ -185,5 +185,31 @@ nav a:hover{
 
 /* --------------MAIN----------------- */
 
+.invitacion {
+    background-color: var(--colorFondo);
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.titulo {
+    font-family: 'Great Vibes', cursive;
+    font-size: 50px;
+    color: var(--color3);
+}
+
+.detalles {
+    font-size: 18px;
+    margin-top: 20px;
+    color: var(--color2);
+}
+
+.mensaje {
+    font-family: 'gowun-dodum' ;
+    font-size: 20px;
+    margin-top: 20px;
+    color: var(--color4);
+}
 
 /* -------------FOOTER----------------- */
