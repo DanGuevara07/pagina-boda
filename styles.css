@@ -33,11 +33,12 @@ nav{
     align-items: center;
     padding: 2% 3%;
     background-color: var(--color1);
-    font-family: var(--textTitulos);
+    font-family: var(--textContenido);
     font-size: larger;
 }
 nav h2{
     color: var(--color3);
+    font-family: var(--textTitulos);
 }
 nav ul{
     width: 50%;
@@ -73,6 +74,8 @@ nav a:hover{
 
 /* Padres de la novia */
 .container-padresNovia{
+    font-family: var(--textContenido);
+    color: var(--colorFondo);
     max-width: 30%;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -154,6 +157,8 @@ nav a:hover{
 
 /* Padres del novio */
 .container-padresNovio{
+    font-family: var(--textContenido);
+    color: var(--colorFondo);
     max-width: 30%;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
