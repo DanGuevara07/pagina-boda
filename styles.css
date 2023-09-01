@@ -66,3 +66,13 @@
     margin-right: 5%;
 }
 /* -------------FOOTER----------------- */
+footer{
+    width: 100%;
+    margin: 0;
+    padding: 10px;
+    background-color: var(--color3);
+    text-align: center;
+    color: var(--colorFondo);
+    font-family: var(--textContenido);
+    font-size: 18px;
+}
